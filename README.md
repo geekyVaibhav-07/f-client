@@ -1,4 +1,4 @@
-## Only login, create user ,sign out and people tab are working. Even people tab need to be setted up properly as a lot of basic features are msising like sening requests, reject request, accept request, getting more information, uploading pictures, searching for people etc ect.
+## Only login, create user ,sign out and people tab are working. Even people tab needs to be setted up properly as a lot of basic features are msising like sening requests, reject request, accept request, getting more information, uploading pictures, searching for people etc ect.
 
 It is very basic setup to test login, create suer adn getiing list of people.
 
