@@ -2,7 +2,7 @@
 
 It is very basic setup to test login, create suer adn getiing list of people.
 
-## missing features : upload image, search for people, getting the friendlist of a friend, own friendlist, feed, passowrd change and CSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+## missing features : upload image, search for people, getting the friendlist of a friend, own friendlist, feed, password change and CSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
 
 If you decide to create more avatars, simple put an image in ./public/assets/images/avatars/<avtar-name>.jpeg. keep in mind that schema is having a restriction of only 6 chars for avatar.
 
