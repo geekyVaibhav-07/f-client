@@ -1,3 +1,11 @@
+## Only login, create user ,sign out and people tab are working. Even people tab need to be setted up properly as a lot of basic features are msising like sening requests, reject request, accept request, getting more information, uploading pictures, searching for people etc ect.
+
+It is very basic setup to test login, create suer adn getiing list of people.
+
+## missing features : upload image, search for people, getting the friendlist of a friend, own friendlist, feed, passowrd change and CSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+
+If you decide to create more avatars, simple put an image in ./public/assets/images/avatars/<avtar-name>.jpeg. keep in mind that schema is having a restriction of only 6 chars for avatar.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
